@@ -1,0 +1,5 @@
+com\mycompany\factory_factura\Factura.class
+com\mycompany\factory_factura\FacturaIvaReducido.class
+com\mycompany\factory_factura\FabricaFacturas.class
+com\mycompany\factory_factura\NewMain.class
+com\mycompany\factory_factura\FacturaIva.class

@@ -18,6 +18,9 @@ public class Singleton {
     public static Singleton getInstance() {
         if (instance == null) {
             instance = new Singleton();
+            System.out.println("El objeto ha sido creado");
+        } else {
+            System.out.println("Ya existe el objeto");
         }
         return instance;
     }
