@@ -1,0 +1,6 @@
+com\mycompany\factory\Circulo.class
+com\mycompany\factory\FabricaFiguras.class
+com\mycompany\factory\Figura.class
+com\mycompany\factory\Cuadrado.class
+com\mycompany\factory\EjemploFactory.class
+com\mycompany\factory\Rectangulo.class
